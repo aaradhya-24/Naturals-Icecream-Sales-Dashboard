@@ -28,7 +28,7 @@ This Power BI dashboard provides insights into the sales performance of Naturals
 
 ## 📁 Included File
 
-Click here to view the file 
+Click here to view/download the file 
 https://github.com/aaradhya-24/Naturals-Icecream-Sales-Dashboard/blob/main/Naturals%20Icecream%20Dashboard.pbix
 
 ---
